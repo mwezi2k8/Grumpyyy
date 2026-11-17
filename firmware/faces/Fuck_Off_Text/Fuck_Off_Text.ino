@@ -1,6 +1,6 @@
 /*
   Fuck_Off_Text - big shaking "FUCK OFF" text
-  Eye keychain: XIAO ESP32-C3 + 128x64 SSD1306 OLED
+  Grumpyyy: XIAO ESP32-C3 + 128x64 SSD1306 OLED
   Libraries: Adafruit SSD1306, Adafruit GFX
 */
 #include <Wire.h>

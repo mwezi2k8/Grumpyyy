@@ -5,7 +5,7 @@
 	(uuid "deaa682e-02b0-4c11-9120-edd15e4215f3")
 	(paper "A4")
 	(title_block
-		(title "Eye Keychain")
+		(title "Grumpyyy")
 		(date "2026-11-17")
 		(rev "1")
 		(comment 1 "XIAO ESP32-C3 + MPU6050 + SSD1306 OLED")
@@ -1191,7 +1191,7 @@
 			(uuid "3d855c1a-7d03-4307-ab05-a034d4f7fbda")
 		)
 		(instances
-			(project "EyeKeychain"
+			(project "Grumpyyy"
 				(path "/deaa682e-02b0-4c11-9120-edd15e4215f3"
 					(reference "U3")
 					(unit 1)
@@ -1278,7 +1278,7 @@
 			(uuid "aeb45fdb-5182-442c-9938-ea679862408f")
 		)
 		(instances
-			(project "EyeKeychain"
+			(project "Grumpyyy"
 				(path "/deaa682e-02b0-4c11-9120-edd15e4215f3"
 					(reference "U2")
 					(unit 1)
@@ -1395,7 +1395,7 @@
 			(uuid "025a2de8-f667-45a8-a468-247a42e88982")
 		)
 		(instances
-			(project "EyeKeychain"
+			(project "Grumpyyy"
 				(path "/deaa682e-02b0-4c11-9120-edd15e4215f3"
 					(reference "U1")
 					(unit 1)

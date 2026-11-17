@@ -1,6 +1,6 @@
 <h1 align="center">
   <img alt="Grumpyyy" width="700" src="images/hero.jpg"><br>
-  Angry Eyes Keychain
+  Grumpyyy
 </h1>
 
 <h3 align="center">a tiny keychain that blinks at you, gets angry when you shake it, and then tells you to fuck off :D</h3>
@@ -57,7 +57,7 @@ made in kicad. its just 4 nets, 3v3, gnd, sda and scl, shared by the oled and th
 1. get the parts from `BOM.csv`
 2. wire it up on a breadboard first and check it works
 3. in arduino ide install the esp32 boards and the adafruit ssd1306 + gfx libraries, select XIAO_ESP32C3 and turn on USB CDC On Boot
-4. upload `firmware/EyeKeychain/EyeKeychain.ino`
+4. upload `firmware/Grumpyyy/Grumpyyy.ino`
 5. solder it on perfboard using the schematic
 6. print the case, put the board in and push the lid on
 
@@ -67,7 +67,7 @@ if the upload doesnt start, hold the B (boot) button while plugging it in
 
 | Folder | Whats inside |
 | --- | --- |
-| `firmware/EyeKeychain` | main code with blinking, shake detection, angry eyes and text |
+| `firmware/Grumpyyy` | main code with blinking, shake detection, angry eyes and text |
 | `firmware/faces` | separate sketches for normal, angry, round eyes and the text |
 | `kicad` | kicad project and schematic of the circuit |
 | `cad` | fusion 360 script for the case and the STEP file of the base and lid |
