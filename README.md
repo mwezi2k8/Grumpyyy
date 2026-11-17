@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Angry Eyes Keychain" width="700" src="images/hero.jpg"><br>
+  <img alt="Grumpyyy" width="700" src="images/hero.jpg"><br>
   Angry Eyes Keychain
 </h1>
 
