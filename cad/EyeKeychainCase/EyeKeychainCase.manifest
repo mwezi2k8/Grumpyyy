@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion360",
+	"type": "script",
+	"author": "",
+	"description": {
+		"": "3D-printable case (base + lid) for the XIAO ESP32-C3 eye keychain"
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
