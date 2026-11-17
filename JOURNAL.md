@@ -1,6 +1,6 @@
 # Grumpyyy
 
-Total time spent : 31 hours
+Total time spent : 28.3 hours
 
 ---
 
@@ -12,7 +12,7 @@ so the idea for this came from my bro. i wanted to make him a gift that was actu
 
 the plan was simple, a small keychain with a tiny screen that shows eyes. normally the eyes just chill and blink, but if you shake it for 2 seconds it gets angry, and at the end it tells you to fuck off. then it calms down and goes back to normal
 
-i spent this time watching a few videos of oled eye animations and robot faces on youtube and writing down what i wanted it to do. i had no idea how hard it would be but it looked doable for a beginner like me
+i spent this time watching a few videos of oled eye animations and robot faces on youtube and writing down what i wanted it to do
 
 <img width="400" src="images/final-board-glowing.jpg">
 
@@ -101,7 +101,7 @@ the first eyes were just rounded rectangles that squash down when they blink
 
 ### JOURNAL #6 Making my own emojis - angry eyes and fuck off
 
-Time spent : 3 hours
+Time spent : 2.8 hours
 
 now the fun part, making it actually look angry
 
@@ -120,7 +120,7 @@ took a lot of uploading and changing numbers to make it look right
 
 ### JOURNAL #7 Round eyes and normal eyes
 
-Time spent : 3 hours
+Time spent : 2.6 hours
 
 after the angry ones worked i wanted to try more faces, so i made separate sketches for each face so i can test them one by one :
 - normal eyes (the rounded squares that blink)
@@ -138,7 +138,7 @@ the round eyes look really cute on the breadboard, its kind of funny that the sa
 
 ### JOURNAL #8 Planning the perfboard layout
 
-Time spent : 1.5 hours
+Time spent : 1.3 hours
 
 before soldering i had to figure out where everything goes on the perfboard so it stays small
 
@@ -153,7 +153,7 @@ i marked the outlines of the parts on the back of the perfboard with a marker so
 
 ### JOURNAL #9 Assembly on perfboard - soldering part 1
 
-Time spent : 3 hours
+Time spent : 2.7 hours
 
 started soldering. first i soldered the xiao and the oled onto the board, then flipped it and started the wiring on the back
 
@@ -168,7 +168,7 @@ lesson learned : tin the wire before soldering it, its way easier
 
 ### JOURNAL #10 Completing the soldering
 
-Time spent : 3.5 hours
+Time spent : 2.9 hours
 
 then i added the mpu6050 and did the rest of the wiring. green and yellow wires for sda and scl going to both the oled and the mpu6050, plus the ad0 pin connected to gnd
 
@@ -185,7 +185,7 @@ after that i cut off the extra perfboard that wasnt needed so the keychain is sm
 
 ### JOURNAL #11 Designing the case
 
-Time spent : 4 hours
+Time spent : 3.4 hours
 
 now it needed a case so it actually looks like a keychain and not a random board
 
@@ -203,7 +203,7 @@ the lid is made to print upside down so it comes out clean. i also learned that 
 
 ### JOURNAL #12 Final assembly and testing
 
-Time spent : 2 hours
+Time spent : 1.6 hours
 
 put the board into the case, closed the lid and tested everything again. it blinks normally, shake it for 2 sec and it gets angry, keep shaking and it stays angry, stop and after 5 sec it says fuck off and calms down
 
