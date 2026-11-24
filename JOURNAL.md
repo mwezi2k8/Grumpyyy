@@ -386,43 +386,9 @@ plugged it in and the eyes came on first try :D genuinely the best feeling of th
 
 --- 
 
-### journal #20 the case base in fusion  
-time spent : 1.8 hours   
 
-  
-now it needed a case so it looks like a keychain and not a random board. measured the board with calipers (around 48 x 44mm with everything on it) and made the case in fusion 360 as a python script, so if my measurements are off i just change a number at the top and run it again  
-  
-the base is an open box with 1.8mm walls and 4 little posts in the corners for the board to sit on, with 5mm of space underneath for all the wires and solder blobs. it has a cutout for the usb-c and a keyring tab at the bottom with a 4.5mm hole
-  
 
-<div align="center">
-  
-| the base |
-| --- |
-| <img width="400" alt="case base" src="images/case-base.jpg" /> |
 
-</div>
-
---- 
-
-### journal #21 the lid  
-time spent : 1.4 hours   
-
-  
-the lid is a flat 1.6mm plate with a window for the oled and a 2mm lip that pushes into the base and holds by friction. i gave the lip 0.2mm clearance per side, if its too tight ill bump it to 0.3  
-  
-its meant to print face down so the top comes out clean. this got me for a bit: when you flip the lid to print it, the window position gets mirrored, so the window was on the wrong side the first time. fixed it in the script
-  
-
-<div align="center">
-  
-| the lid | both parts |
-| --- | --- |
-| <img width="300" alt="case lid" src="images/case-lid.jpg" /> | <img width="450" alt="case in fusion" src="images/case-fusion.jpg" /> |
-
-</div>
-
---- 
 
 ### journal #22 final testing  
 time spent : 1.1 hours   
