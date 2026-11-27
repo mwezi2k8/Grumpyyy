@@ -6,7 +6,5 @@ Perfboard (dot board),1,"Single sided, 2.54mm pitch, cut to about 48 x 44 mm",30
 Hookup wire,1,"Thin single core wire, red / blue / green / yellow",40,"3V3, GND, SDA and SCL wiring under the board"
 Male header pins,1,"2.54mm, strip of 40 (only a few used)",15,"For the OLED and MPU6050 modules"
 Solder wire,1,"Leaded, 0.8mm",0,"Already had it"
-PLA filament,1,"About 15 g for base + lid",30,"3D printed case"
-Key ring,1,"Small split ring, about 20mm",10,"Goes through the 4.5mm hole in the case tab"
 USB-C cable,1,"USB-C to USB-A / USB-C data cable",0,"Powers it from the laptop, already had it"
 Breadboard + jumper wires,1,"For testing before soldering",0,"Only for testing, already had them"

@@ -1,7 +1,7 @@
 <h1 align="center">Grumpyyy build journal</h1>
 <p align="center"><strong>Made by Mwezi</strong></p>
 <p align="center">How I made my brother a keychain with his patience level.</p>
-<p align="center"><strong>12 sessions · 28.3 hours</strong><br><a href="README.md">Project overview</a> · <a href="media/testing-video.mp4">Watch the final test</a></p>
+<p align="center"><strong>11 sessions · 24.9 hours</strong><br><a href="README.md">Project overview</a> · <a href="media/testing-video.mp4">Watch the final test</a></p>
 
 ---
 
@@ -142,27 +142,13 @@ The eyes came on first try :D After all those wires on the back, that felt good.
 
 ---
 
-## 11. Giving it a case
-
-**Time spent** · 3.4 hours
-
-I measured the populated board with calipers and made the case parametric in Fusion 360. If I’d missed a dimension, I wanted to be able to change one number and try again.
-
-The board sits on four corner posts with 5 mm underneath for the wires. The base has a USB-C cutout and a keyring tab with a 4.5 mm hole. The lid has the OLED window and a friction-fit lip. I left 0.2 mm clearance there, with room to try 0.3 mm if the fit felt too tight.
-
-I designed the lid to print upside down for a clean face. Flipping it mirrors the window position in the print view, so I double-checked which side the screen was on.
-
-<p align="center"><img src="images/case-fusion.jpg" alt="Parametric base and lid in Fusion 360" width="500"><br><em>Parametric base and lid in Fusion 360</em></p>
-
----
-
-## 12. One last shake
+## 11. One last shake
 
 **Time spent** · 1.6 hours
 
-I seated the board in the case, pushed the lid on and ran the whole sequence again. Blinking eyes, two seconds of shaking, angry eyebrows. I kept shaking and it stayed mad. I put it down, waited about five seconds, and got my two-word goodbye.
+I ran the whole sequence again. Blinking eyes, two seconds of shaking, angry eyebrows. I kept shaking and it stayed mad. I put it down, waited about five seconds, and got my two-word goodbye.
 
-This little gift took me through I²C, reading a sensor directly, OLED animation, KiCad, perfboard soldering and my first pass at this case. Next time I’d like to give it a battery so it can do all this away from my laptop. Maybe a few more faces, too. For now I just want to see my brother’s reaction.
+This little gift took me through I²C, reading a sensor directly, OLED animation, KiCad and perfboard soldering. Next time I’d like to give it a battery so it can do all this away from my laptop. Maybe a few more faces, too. For now I just want to see my brother’s reaction.
 
 [Watch the final test](media/testing-video.mp4)
 

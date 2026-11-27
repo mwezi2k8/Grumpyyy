@@ -52,19 +52,12 @@ A Seeed Studio XIAO ESP32-C3 reads the MPU6050 accelerometer directly over I²C.
 
 Grounding AD0 gives the MPU6050 address `0x68`. The OLED uses `0x3C`. I drew the [schematic in KiCad](kicad/Grumpyyy.kicad_sch) and soldered the build on perfboard.
 
-## The case
-
-<p align="center"><img src="images/case-fusion.jpg" alt="Base and lid in Fusion 360" width="500"><br><em>Base and lid in Fusion 360</em></p>
-
-I put the USB-C cutout at the edge of the base so I could plug it in with the lid on. Four posts lift the board above the soldered wires, and a friction-fit lid frames the OLED. The [STEP model](cad/Grumpyyy-CAD.step) includes the base and lid. The [Fusion script](cad/GrumpyyyCase/) is there if you want to adjust the fit.
-
 ## Want to build one?
 
 1. Gather the parts below and wire the two modules on a breadboard using the pin table.
 2. In Arduino IDE, install the ESP32 board package and the Adafruit SSD1306 and Adafruit GFX libraries. Select **XIAO_ESP32C3** and enable **USB CDC On Boot**.
 3. Open and upload [Grumpyyy.ino](firmware/Grumpyyy/Grumpyyy.ino). If the upload won’t start, hold the **B** (boot) button while plugging in the board.
 4. Try the shake sequence on the breadboard. Once it works, solder the parts to perfboard, leaving the USB-C port accessible, and check the connections against the schematic.
-5. Print the base and lid, seat the board on its posts and press the lid into place.
 
 ## Bill of materials
 
@@ -76,8 +69,6 @@ I put the USB-C cutout at the edge of the base so I could plug it in with the li
 | Perfboard | 1 | Holds the circuit | ₹30 |
 | Hookup wire | 1 lot | Connects the modules | ₹40 |
 | Male header pins | 1 strip | Mounts the modules | ₹15 |
-| PLA | About 15 g | Base and lid | ₹30 |
-| Key ring | 1 | Fits the case tab | ₹10 |
-| **Total** | | | **₹985** |
+| **Total** | | | **₹945** |
 
 I already had the solder, USB-C data cable, breadboard and jumpers. The [full BOM](BOM.csv) includes those items and the part specifications.
