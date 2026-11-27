@@ -1,0 +1,12 @@
+Part,Quantity,Description,Approx price (INR),Notes
+Seeed Studio XIAO ESP32-C3,1,"Microcontroller board, USB-C, 3.3V logic",500,"Brain of the keychain, powered and programmed over USB-C"
+MPU6050 (GY-521 / HW-123),1,"6-axis accelerometer + gyro module, I2C",130,"Detects the shake, I2C address 0x68 (AD0 to GND)"
+0.96 inch OLED 128x64 (SSD1306),1,"Monochrome OLED display, I2C, 4 pin",230,"Shows the eyes and text, I2C address 0x3C"
+Perfboard (dot board),1,"Single sided, 2.54mm pitch, cut to about 48 x 44 mm",30,"All parts soldered on it"
+Hookup wire,1,"Thin single core wire, red / blue / green / yellow",40,"3V3, GND, SDA and SCL wiring under the board"
+Male header pins,1,"2.54mm, strip of 40 (only a few used)",15,"For the OLED and MPU6050 modules"
+Solder wire,1,"Leaded, 0.8mm",0,"Already had it"
+PLA filament,1,"About 15 g for base + lid",30,"3D printed case"
+Key ring,1,"Small split ring, about 20mm",10,"Goes through the 4.5mm hole in the case tab"
+USB-C cable,1,"USB-C to USB-A / USB-C data cable",0,"Powers it from the laptop, already had it"
+Breadboard + jumper wires,1,"For testing before soldering",0,"Only for testing, already had them"
